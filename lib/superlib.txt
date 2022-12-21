@@ -1,0 +1,6 @@
+
+esto es una function( parametro 1 parametro 2)
+ el cuerpo de la funcion
+ realiza diferentes cosas
+ y devuelve un resultado.
+end.
